@@ -39,3 +39,7 @@ tasks.withType<DependencyUpdatesTask> {
         isNonStable(candidate.version) && !isNonStable(currentVersion)
     }
 }
+
+tasks.getByName("run", JavaExec::class) {
+    standardInput = System.`in`
+}
