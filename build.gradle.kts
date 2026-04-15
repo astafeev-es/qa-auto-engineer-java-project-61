@@ -4,6 +4,7 @@ plugins {
     id("java")
     id("application")
     id("com.github.ben-manes.versions") version "0.53.0"
+    id("checkstyle")
 }
 
 group = "hexlet.code"
@@ -42,4 +43,9 @@ tasks.withType<DependencyUpdatesTask> {
 
 tasks.getByName("run", JavaExec::class) {
     standardInput = System.`in`
+}
+
+checkstyle {
+    toolVersion = "13.4.0"
+    configFile = rootProject.file("config/checkstyle/checkstyle.xml")
 }
