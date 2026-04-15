@@ -30,3 +30,18 @@
 
 ### SonarQube Vulnerabilities:
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=astafeev-es_qa-auto-engineer-java-project-61&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=astafeev-es_qa-auto-engineer-java-project-61)
+
+### Even Game Recording
+[![asciicast](https://asciinema.org/a/KcojSL8hYo6SbGgA.svg)](https://asciinema.org/a/KcojSL8hYo6SbGgA)
+
+### Calc Game Recording
+[![asciicast](https://asciinema.org/a/UqxhndMcRzYM2vct.svg)](https://asciinema.org/a/UqxhndMcRzYM2vct)
+
+### GCD Game Recording
+[![asciicast](https://asciinema.org/a/rzazQxGFdPODuWuV.svg)](https://asciinema.org/a/rzazQxGFdPODuWuV)
+
+### Progression Game Recording
+[![asciicast](https://asciinema.org/a/LonwxmcFkJqOXngt.svg)](https://asciinema.org/a/LonwxmcFkJqOXngt)
+
+### Prime Game Recording
+[![asciicast](https://asciinema.org/a/ulaSyF6S2g3F94Qv.svg)](https://asciinema.org/a/ulaSyF6S2g3F94Qv)
