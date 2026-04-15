@@ -10,17 +10,17 @@ public class Progression {
     private static final int MAX_LENGTH_VARIANCE = 6; // 5 to 10
     private static final int MAX_START_VALUE = 20;
     private static final int MAX_STEP_VALUE = 10;
+    private static final Random RANDOM = new Random();
 
     public static void play(Scanner scanner) {
         String description = "What number is missing in the progression?";
         String[][] roundsData = new String[Engine.ROUNDS_COUNT][2];
-        Random random = new Random();
 
         for (int i = 0; i < Engine.ROUNDS_COUNT; i++) {
-            int length = random.nextInt(MAX_LENGTH_VARIANCE) + MIN_LENGTH;
-            int start = random.nextInt(MAX_START_VALUE);
-            int step = random.nextInt(MAX_STEP_VALUE) + 1;
-            int hiddenIndex = random.nextInt(length);
+            int length = RANDOM.nextInt(MAX_LENGTH_VARIANCE) + MIN_LENGTH;
+            int start = RANDOM.nextInt(MAX_START_VALUE);
+            int step = RANDOM.nextInt(MAX_STEP_VALUE) + 1;
+            int hiddenIndex = RANDOM.nextInt(length);
 
             String[] progression = makeProgression(start, step, length);
 
