@@ -2,12 +2,12 @@ package hexlet.code.games;
 
 import hexlet.code.Engine;
 import java.util.Scanner;
-import java.util.Random;
+import java.security.SecureRandom;
 
 public class Prime {
 
     private static final int MAX_RANDOM_NUMBER = 100;
-    private static final Random RANDOM = new Random();
+    private static final SecureRandom RANDOM = new SecureRandom();
 
     public static void play(Scanner scanner) {
         String description = "Answer 'yes' if given number is prime. Otherwise answer 'no'.";
