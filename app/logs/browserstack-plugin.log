@@ -1,0 +1,18 @@
+14:34:43.175 [AWT-EventQueue-0] INFO  c.b.sdk.actions.DisableBrowserStack - Setting disable browserstack run update
+14:34:43.180 [AWT-EventQueue-0] INFO  c.b.sdk.actions.EnableBrowserStack - Setting enable browserstack run update
+16:19:15.625 [AWT-EventQueue-0] INFO  c.b.s.l.BrowserStackRunExtension - gradle
+16:19:15.632 [AWT-EventQueue-0] INFO  com.browserstack.sdk.utils.Helpers - null
+16:19:41.763 [AWT-EventQueue-0] INFO  c.b.s.l.BrowserStackRunExtension - gradle
+16:19:41.763 [AWT-EventQueue-0] INFO  com.browserstack.sdk.utils.Helpers - null
+16:38:04.410 [AWT-EventQueue-0] INFO  c.b.s.l.BrowserStackRunExtension - gradle
+16:38:04.410 [AWT-EventQueue-0] INFO  com.browserstack.sdk.utils.Helpers - null
+17:06:20.791 [AWT-EventQueue-0] INFO  c.b.s.l.BrowserStackRunExtension - gradle
+17:06:20.792 [AWT-EventQueue-0] INFO  com.browserstack.sdk.utils.Helpers - null
+17:08:42.031 [AWT-EventQueue-0] INFO  c.b.s.l.BrowserStackRunExtension - gradle
+17:08:42.031 [AWT-EventQueue-0] INFO  com.browserstack.sdk.utils.Helpers - null
+17:13:27.820 [AWT-EventQueue-0] INFO  c.b.s.l.BrowserStackRunExtension - gradle
+17:13:27.820 [AWT-EventQueue-0] INFO  com.browserstack.sdk.utils.Helpers - null
+20:06:49.649 [AWT-EventQueue-0] INFO  c.b.s.l.BrowserStackRunExtension - gradle
+20:06:49.649 [AWT-EventQueue-0] INFO  com.browserstack.sdk.utils.Helpers - null
+20:07:01.874 [AWT-EventQueue-0] INFO  c.b.s.l.BrowserStackRunExtension - gradle
+20:07:01.874 [AWT-EventQueue-0] INFO  com.browserstack.sdk.utils.Helpers - null
