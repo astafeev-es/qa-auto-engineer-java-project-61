@@ -43,7 +43,10 @@ public class App {
             case "6":
                 Prime.play(scanner);
                 break;
+            case "0":
+                break;
             default:
+                System.out.println("Unknown user choice: " + choice);
                 break;
         }
 
